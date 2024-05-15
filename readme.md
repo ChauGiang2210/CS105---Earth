@@ -38,5 +38,3 @@ Tác dụng của các thanh công cụ:
 - **x,y,z**: Tọa độ vector (x,y,z) mà box sẽ tịnh tiến theo
 - **r**: Bán kính để box xoay quanh trục y
 - **Reset Position**: Reset tọa độ của box về tọa độ gốc
-
-Quá trình làm bài còn nhiều sai sót, mong thầy xem xét.
